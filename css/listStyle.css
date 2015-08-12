@@ -1,0 +1,63 @@
+body {
+	background-color: #FF0066;
+	text-align: center;
+}
+h1 {
+	font-family: garamond;
+	font-size: 40px;
+	padding: 0px;
+	margin: 0px;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+a:link {color: black;}    
+a:visited {color: black;} 
+a:hover {color: black;}   
+a:active {color: black;}
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+a {
+	padding-left: 4px;
+} 
+
+h3 {
+	font-family: BebasNeue;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+h3 a:link {
+	font-family: BebasNeue;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+h3 a:visited {
+	font-family: BebasNeue;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+h3 a:hover {
+	font-family: BebasNeue;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+h3 a:active {
+	font-family: BebasNeue;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+@font-face {
+    font-family: BebasNeue;
+    src: url(../assets/BebasNeue.otf);
+}

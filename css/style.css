@@ -1,0 +1,21 @@
+body{
+	background-color: #FF0066;
+}
+
+div#content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+}
+
+h2{
+	font-family: garamond;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+a:link {color: black;}    
+a:visited {color: black;} 
+a:hover {color: black;}   
+a:active {color: black;}
